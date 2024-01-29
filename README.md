@@ -1,2 +1,3 @@
 # Data-Analyst-Bootcamp
-Portfolios
+
+I used to Bigquery and looker studio tools. 
